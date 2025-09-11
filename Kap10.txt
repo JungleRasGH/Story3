@@ -1,1 +1,2 @@
-1) Linje 
+1) Linja 
+2) En linje mere
