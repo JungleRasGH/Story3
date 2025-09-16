@@ -1,3 +1,4 @@
 Første linje skives her
 her også med Alien-kebab
 Skrevet i GitHub
+Og så skrevet lokalt
